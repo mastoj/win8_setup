@@ -5,4 +5,5 @@
 	<package id="console2" />
 	<package id="sublimetext2" />
 	<package id="7zip" />
+	<package id="git" />
 </packages>
