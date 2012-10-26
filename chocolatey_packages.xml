@@ -6,4 +6,5 @@
 	<package id="sublimetext2" />
 	<package id="7zip" />
 	<package id="git" />
+	<package id="vlc" />
 </packages>
